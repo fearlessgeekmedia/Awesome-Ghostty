@@ -20,7 +20,7 @@ For a full list of features, visit the [features section](https://ghostty.org/do
 
 [Ghostty LSP](https://github.com/matthewmturner/ghostty-lsp) - An LSP providing hover definitions for each parameter in Ghostty's configuration
 
-[Ghostty Gost ](https://github.com/gambithunt/ghostty-ghost) - Cli tool to transfer terminal settings from Kitty and Alacritty to Ghostty terminal
+[Ghostty Ghost ](https://github.com/gambithunt/ghostty-ghost) - Cli tool to transfer terminal settings from Kitty and Alacritty to Ghostty terminal
 
 [GhosttyExtensions.jl](https://github.com/piechologist/GhosttyExtensions.jl) - A Julia package that supports some advanced features of Ghostty
 
