@@ -44,5 +44,7 @@ One of the unique features of Ghostty is the ability to use custom shaders. This
 
 [Vitesse Themes for Ghostty](https://github.com/hamlim/vitesse-ghostty-theme) - A set of themes for Ghostty based on the Vitesse Theme for VS Code, based on the iTerm2 themes
 
+[nightfox.nvim](https://github.com/EdenEast/nightfox.nvim/) - A set of themes for Neovim that include extras for Ghostty that are found under extras (such as [this one for Carbonfox](https://github.com/EdenEast/nightfox.nvim/blob/main/extra/carbonfox/carbonfox.ghostty))
+
 
 * This page is not an official Ghostty page. It's just created by a fan, user, and a beta tester of the terminal.
