@@ -21,7 +21,7 @@ For a full list of features, visit the [features section](https://ghostty.org/do
 * [GhosttyExtensions.jl](https://github.com/piechologist/GhosttyExtensions.jl) - A Julia package that supports some advanced features of Ghostty
 * [osscz](https://github.com/kontza/osscz) - Command-line application to dynamically change Ghostty's terminal themes based on SSH connections
 * [Apprentice-Ghostty](https://github.com/ethanfrogers/apprentice-ghostty) - A Vim Apprentice clone for Ghostty terminal emulator
-* [Ghosttty Base16 Converter](https://github.com/l0go/ghostty-base16-converter) - Convert from a base16 scheme to ghostty.
+* [Ghostty Base16 Converter](https://github.com/l0go/ghostty-base16-converter) - Convert from a base16 scheme to ghostty.
 * [Tree-sitter Ghostty](https://github.com/bezhermoso/tree-sitter-ghostty) - Tree-sitter grammar for Ghostty configuration files
 * [Ghostty Color Converter](https://github.com/almonk/ghostty-color-converter) - Convert colors to Ghostty
 * [Ghostsmith](https://github.com/vandorsx/ghostsmith) - Barebones CLI tool for saving custom generated Ghostty icons to file
