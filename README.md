@@ -39,7 +39,7 @@ One of the unique features of Ghostty is the ability to use custom shaders. This
 
 ## Themes
 * [Electron Highlighter](https://github.com/electron-highlighter/ghostty)
-* [Catpuccin](https://github.com/catppuccin/ghostty) - Soothing pastel theme for Ghostty
+* [Catppuccin](https://github.com/catppuccin/ghostty) - Soothing pastel theme for Ghostty
 * [Rosé Pine](https://github.com/rose-pine/ghostty) - Rosé Pine theme for Ghostty
 * [Kitty themes for Ghostty](https://github.com/hroi/ghostty-themes) - Kitty themes converted to Ghostty themes
 * [tinted-ghostty](https://github.com/bezhermoso/tinted-ghostty) - A tinted theming template for Ghostty with Base16 themes
