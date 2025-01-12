@@ -66,7 +66,7 @@ Features for terminal application developers are things like the Kitty graphics 
 * [Ghostty animated command](https://github.com/lukeshere/ghostty-animation-command) - A command showing the 👻 spinning
 * [Frames for the above command](https://github.com/Ayomided/go-ghostty/tree/main/home/animation_frames)
 * [Ghostty-Anim-Terminal](https://github.com/Feror-BotMaker/Ghostty-Anim-Terminal) - Ghostty's homepage animation in the Ghostty terminal (or any terminal)
-* [Gosttime](https://github.com/SohelIslamImran/ghosttime) - Ghostty animation for your terminal with customizable colors
+* [Ghosttime](https://github.com/SohelIslamImran/ghosttime) - Ghostty animation for any terminal with customizable colors
 
 ## Shaders
 One of the unique features of Ghostty is the ability to use custom shaders. This can be used for anything from crazy looks and effects to accessibility features.
