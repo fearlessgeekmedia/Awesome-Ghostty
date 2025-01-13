@@ -87,7 +87,7 @@ One of the unique features of Ghostty is the ability to use custom shaders. This
 * [nightfox.nvim](https://github.com/EdenEast/nightfox.nvim/) - A set of themes for Neovim that include extras for Ghostty that are found under extras (such as [this one for Carbonfox](https://github.com/EdenEast/nightfox.nvim/blob/main/extra/carbonfox/carbonfox.ghostty))
 * [Everforest](https://github.com/jrswab/ghostty-everforest) - Everforest Theme for Ghostty
 * [Dracula for Ghostty](https://github.com/MohamedElashri/ghostty-dracula) - a dark theme for Ghostty
-* [Tokyo-Night-Storm for Ghostty](https://github.com/wyattgill9/dotfiles/arch-conf/ghostty) - a dark, minimal theme for Ghostty
+* [Tokyo-Night-Storm for Ghostty](https://github.com/wyattgill9/dotfiles/blob/main/arch-conf/ghostty/themes/tokyo) - a dark, minimal theme for Ghostty
 * [Ghostty Base16 Eighties](https://github.com/troyanov/ghostty-base16-eighties) - Ghostty Base16 Eighties theme
 * [Ghostty Color template to use with Pywal](https://gist.github.com/strlrd-29/c7dfed495d194fabc077956d7919c470)
 * [GhosttyBase16](https://github.com/RGBCube/GhosttyBase16) - Base 16 template for Ghostty
