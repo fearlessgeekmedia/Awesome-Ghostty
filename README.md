@@ -83,7 +83,8 @@ One of the unique features of Ghostty is the ability to use custom shaders. This
 * [Catppuccin](https://github.com/catppuccin/ghostty) - Soothing pastel theme for Ghostty
 * [Rosé Pine](https://github.com/rose-pine/ghostty) - Rosé Pine theme for Ghostty
 * [Kitty themes for Ghostty](https://github.com/hroi/ghostty-themes) - Kitty themes converted to Ghostty themes
-* [tinted-ghostty](https://github.com/bezhermoso/tinted-ghostty) - A tinted theming template for Ghostty with Base16 themes
+* [Base16 & Base24 Ghostty themes via tinted-terminal](https://github.com/tinted-terminal/tinted-terminal) - Base16 &
+Base24 themes for Ghostty
 * [Vitesse Themes for Ghostty](https://github.com/hamlim/vitesse-ghostty-theme) - A set of themes for Ghostty based on the Vitesse Theme for VS Code, based on the iTerm2 themes
 * [nightfox.nvim](https://github.com/EdenEast/nightfox.nvim/) - A set of themes for Neovim that include extras for Ghostty that are found under extras (such as [this one for Carbonfox](https://github.com/EdenEast/nightfox.nvim/blob/main/extra/carbonfox/carbonfox.ghostty))
 * [Everforest](https://github.com/jrswab/ghostty-everforest) - Everforest Theme for Ghostty
