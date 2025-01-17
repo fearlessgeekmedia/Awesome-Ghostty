@@ -24,7 +24,7 @@ Features for end-users are things like multi-window, tabs, splits, ligatures, au
 Features for terminal application developers are things like the Kitty graphics protocol, Kitty keyboard protocol, synchronized rendering, light/dark mode notifications, etc. These features allow terminal applications to do more than they could in other terminal emulators. While these features are not directly used by end-users, end-users benefit from them because terminal applications they use every day can do more.
 
 ## Packages
-* [Snap](https://github.com/dobicinaitis/ghostty-snap)
+* [Snap](https://snapcraft.io/ghostty)
 * [Appimage](https://github.com/psadi/ghostty-appimage)
 * [Nix-Darwin](https://github.com/kbwhodat/ghostty-nix-darwin)
 * [Ubuntu/.deb](https://github.com/mkasberg/ghostty-ubuntu)
