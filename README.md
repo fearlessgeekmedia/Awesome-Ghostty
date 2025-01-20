@@ -68,6 +68,7 @@ Features for terminal application developers are things like the Kitty graphics 
 * [Ghostty-Anim-Terminal](https://github.com/Feror-BotMaker/Ghostty-Anim-Terminal) - Ghostty's homepage animation in the Ghostty terminal (or any terminal)
 * [Ghosttime](https://github.com/SohelIslamImran/ghosttime) - Ghostty animation for any terminal with customizable colors
 * [Ghost](https://github.com/theMackabu/ghost) - Ghostty animation
+* [Ghostty Screensaver](https://github.com/initor/ghostty-screensaver)
 
 ## Shaders
 One of the unique features of Ghostty is the ability to use custom shaders. This can be used for anything from crazy looks and effects to accessibility features.
@@ -90,6 +91,7 @@ Base24 themes for Ghostty
 * [nightfox.nvim](https://github.com/EdenEast/nightfox.nvim/) - A set of themes for Neovim that include extras for Ghostty that are found under extras (such as [this one for Carbonfox](https://github.com/EdenEast/nightfox.nvim/blob/main/extra/carbonfox/carbonfox.ghostty))
 * [Everforest](https://github.com/jrswab/ghostty-everforest) - Everforest Theme for Ghostty
 * [Dracula for Ghostty](https://github.com/MohamedElashri/ghostty-dracula) - a dark theme for Ghostty
+* [Another Dracula theme for Ghostty](https://github.com/dal-liu/ghostty-dracula)
 * [Tokyo-Night-Storm for Ghostty](https://github.com/wyattgill9/dotfiles/blob/main/arch-conf/ghostty/themes/tokyo) - a dark, minimal theme for Ghostty
 * [Ghostty Base16 Eighties](https://github.com/troyanov/ghostty-base16-eighties) - Ghostty Base16 Eighties theme
 * [Ghostty Color template to use with Pywal](https://gist.github.com/strlrd-29/c7dfed495d194fabc077956d7919c470)
@@ -110,10 +112,12 @@ Base24 themes for Ghostty
 * [Posterpole](https://github.com/posterpole/ghostty) - Port of the Posterpole neovim theme to the Ghostty terminal
 * [HardHacker Theme](https://github.com/stevebosworth/hardhacker-ghostty) - HardHacker theme for the Ghostty terminal
 * [Prisma Theme](https://github.com/gniting/prisma-ghostty-theme) - Prisma inspired theme for Ghostty
+* [IBM 3290/IBM P70 plasma screen theme](https://github.com/alphaaleph/ghostty-ibm3290)
+* [walors](https://github.com/sudoshan/walors) - Pywal implementation for ghostty terminal
 
 ## Other
 * [Ghostty App Icon](https://github.com/lukejanicke/ghostty-app-icon) - An unofficial Ghostty app icon for macOS, based on the SVG logo from the Ghostty website
-* [Unofficial Wayland Only Ghostty App rundimte](https://github.com/gabydd/ghostty-wayland)
+* [Unofficial Wayland Only Ghostty App runtime](https://github.com/gabydd/ghostty-wayland)
 
 ** This page is not an official Ghostty page. It's just created by a fan, user, and a beta tester of the terminal.
 
