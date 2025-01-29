@@ -115,6 +115,7 @@ Base24 themes for Ghostty
 * [Prisma Theme](https://github.com/gniting/prisma-ghostty-theme) - Prisma inspired theme for Ghostty
 * [IBM 3290/IBM P70 plasma screen theme](https://github.com/alphaaleph/ghostty-ibm3290)
 * [walors](https://github.com/sudoshan/walors) - Pywal implementation for ghostty terminal
+* [unofficial tiniri theme](https://github.com/MohamedElashri/ghostty-tiniri) -  tiniri theme for Ghostty Terminal 
 
 ## Other
 * [Ghostty App Icon](https://github.com/lukejanicke/ghostty-app-icon) - An unofficial Ghostty app icon for macOS, based on the SVG logo from the Ghostty website
