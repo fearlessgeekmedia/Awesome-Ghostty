@@ -35,7 +35,7 @@ Features for terminal application developers are things like the Kitty graphics 
 * For a full list of features, visit the [features section](https://ghostty.org/docs/features) in the Ghostty documentation.
 * [Ghostty.org](https://ghostty.org)
 * [Ghostty.town](https://ghostty.town) - Share your ghostty terminal configs and find new ideas from others.
-* [Ghostty Cheatsheet](https://github.com/conlonj25/cheatsheet-ghostty) - Cheatsheet of Ghostty keyboard shortcuts.
+* [Ghostty Cheatsheet](https://github.com/conlonj25/ghostty-cheatsheet) - Cheatsheet of Ghostty keyboard shortcuts.
 
 ## Tools for Ghostty
 * [Ghostty Config tool ](https://ghostty.zerebos.com/) - an unofficial tool for creating custom Ghostty configurations.
