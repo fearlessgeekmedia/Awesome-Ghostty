@@ -1,4 +1,4 @@
-**I am no longer maintaining this, as I am no longer active in the Ghostty community. If you are interested in maintaining this list, feel free to fork it.**
+**I am no longer maintaining this. It has been forked, and you can get an up to date version [here](https://github.com/wyattgill9/Awesome-Ghostty).
 
 # Awesome Ghostty
 
